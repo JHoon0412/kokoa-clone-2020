@@ -1,0 +1,6 @@
+:root {
+  --main-color: blue;
+}
+p:hover input:focus {
+  background-color: var(--main-color);
+}
